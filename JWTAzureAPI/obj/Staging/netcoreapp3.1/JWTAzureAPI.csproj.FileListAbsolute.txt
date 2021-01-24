@@ -57,3 +57,4 @@ E:\Projects\AzureJWTAuthentication\JWTAzureAPI\JWTAzureAPI\obj\Staging\netcoreap
 E:\Projects\AzureJWTAuthentication\JWTAzureAPI\JWTAzureAPI\obj\Staging\netcoreapp3.1\JWTAzureAPI.dll
 E:\Projects\AzureJWTAuthentication\JWTAzureAPI\JWTAzureAPI\obj\Staging\netcoreapp3.1\JWTAzureAPI.pdb
 E:\Projects\AzureJWTAuthentication\JWTAzureAPI\JWTAzureAPI\obj\Staging\netcoreapp3.1\JWTAzureAPI.genruntimeconfig.cache
+E:\Projects\AzureJWTAuthentication\JWTAzureAPI\JWTAzureAPI\obj\Staging\netcoreapp3.1\JWTAzureAPI.csprojAssemblyReference.cache
