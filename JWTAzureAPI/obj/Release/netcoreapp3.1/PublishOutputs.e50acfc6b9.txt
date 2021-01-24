@@ -1,0 +1,15 @@
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\JWTAzureAPI.exe
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\JWTAzureAPI.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\JWTAzureAPI.deps.json
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\JWTAzureAPI.runtimeconfig.json
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\JWTAzureAPI.pdb
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+E:\Projects\JWTAzureAPI\JWTAzureAPI\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
