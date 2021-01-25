@@ -32,7 +32,7 @@ namespace JWTAzureAPI
                opt.Audience = Configuration["AAD:ResourceId"];
                opt.Authority = $"{Configuration["AAD:Instance"]}{Configuration["AAD:TenantId"]}";
            });
-
+            services.AddSingleton<IConfiguration>(Configuration);
             services.AddControllers();
         }
 
