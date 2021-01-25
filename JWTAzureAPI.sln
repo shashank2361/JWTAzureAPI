@@ -10,23 +10,28 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Readme.txt = Readme.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTAzureAPI.Test", "JWTAzureAPI.test\JWTAzureAPI.Test.csproj", "{340328D6-07CB-481F-8172-00E7EA9F6817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTAzureAPI.Test", "JWTAzureAPI.test\JWTAzureAPI.Test.csproj", "{340328D6-07CB-481F-8172-00E7EA9F6817}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Live|Any CPU = Live|Any CPU
 		Release|Any CPU = Release|Any CPU
 		Staging|Any CPU = Staging|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Live|Any CPU.ActiveCfg = Live|Any CPU
+		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Live|Any CPU.Build.0 = Live|Any CPU
 		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
 		{378C2EE1-86A2-455B-BE79-666E532FBBC6}.Staging|Any CPU.Build.0 = Staging|Any CPU
 		{340328D6-07CB-481F-8172-00E7EA9F6817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{340328D6-07CB-481F-8172-00E7EA9F6817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340328D6-07CB-481F-8172-00E7EA9F6817}.Live|Any CPU.ActiveCfg = Live|Any CPU
+		{340328D6-07CB-481F-8172-00E7EA9F6817}.Live|Any CPU.Build.0 = Live|Any CPU
 		{340328D6-07CB-481F-8172-00E7EA9F6817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{340328D6-07CB-481F-8172-00E7EA9F6817}.Release|Any CPU.Build.0 = Release|Any CPU
 		{340328D6-07CB-481F-8172-00E7EA9F6817}.Staging|Any CPU.ActiveCfg = Debug|Any CPU
